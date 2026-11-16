@@ -1,0 +1,9 @@
+{
+  "name": "base-project-standards",
+  "version": "1.0.0",
+  "description": "Base agents, skills, and coding/architecture rules for new projects.",
+  "skills": ".agents/skills",
+  "agents": ".agents/agents",
+  "rules": ".agents/rules"
+}
+
